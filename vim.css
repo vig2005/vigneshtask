@@ -1,0 +1,382 @@
+h3{
+    margin-left:350px;
+    color: aliceblue;
+}
+p2{
+    color: aliceblue;
+    margin-left: 0px;
+}
+hr.new7 {
+   
+    width: 400px;
+   margin-left: 500px;
+}
+p4{
+    margin-right: 80px;
+}
+.progress_bar{
+    padding: 50px 0px;
+}
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_bar h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_bar h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_bar ul li{
+    padding: 10px 200px;
+}
+
+.bar{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.bar span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.html{
+    background: aqua;
+    width: 95%;
+    animation: html s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 95;
+
+    }
+}
+.progress_bare{
+    padding: 50px 0px;
+}
+
+
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_bare h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_bare h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_bare ul li{
+    padding: 10px 200px;
+}
+
+.bare{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.bare span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.css{
+    background: rgb(24, 160, 58);
+    width: 85%;
+    animation: html 5s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 85;
+
+    }
+}
+
+
+
+.progress_bare{
+    padding: 50px 0px;
+}
+
+
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_bare h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_bare h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_bare ul li{
+    padding: 10px 200px;
+}
+
+.bare{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.bare span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.css{
+    background: rgb(24, 160, 58);
+    width: 85%;
+    animation: html 5s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 85;
+
+    }
+}
+
+.progress_bara{
+    padding: 50px 0px;
+}
+
+
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_bara h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_bara h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_bara ul li{
+    padding: 10px 200px;
+}
+
+.bara{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.bara span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.Java{
+    background: rgb(241, 6, 151);
+    width: 75%;
+    animation: html 5s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 85;
+
+    }
+}
+
+
+
+.progress_barv{
+    padding: 50px 0px;
+}
+
+
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_barv h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_barv h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_barv ul li{
+    padding: 10px 200px;
+}
+
+.barv{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.barv span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.web{
+    background: rgb(184, 0, 31);
+    width: 65%;
+    animation: html 5s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 85;
+
+    }
+}
+.progress_barm{
+    padding: 50px 0px;
+}
+
+
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_barm h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_barm h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_barm ul li{
+    padding: 10px 200px;
+}
+
+.barm{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.barm span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.rdbms{
+    background: rgb(207, 194, 0);
+    width: 45%;
+    animation: html 5s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 45;
+
+    }
+}
+
+
+
+
+.progress_bars{
+    padding: 50px 0px;
+}
+
+
+.progress_icon{
+    color: red;
+    font-size: 20px;
+    margin-bottom: 10px;
+    display: flex;
+
+}
+
+.progress_bars h3{
+    color: rgb(244, 247, 239);
+    font-size: 16px;
+    text-transform: uppercase;
+}
+.progress_bars h3 span{
+ float: right;
+padding-bottom: 4px;
+}
+.progress_bars ul li{
+    padding: 10px 200px;
+}
+
+.bars{
+    height: 6px;
+    background:rgb(214, 206, 206);
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.bars span{
+    height: 6px;
+    float: left;
+    border-radius: 2px;
+}
+.eg{
+    background: rgb(187, 5, 60);
+    width: 25%;
+    animation: html 5s;
+}
+@keyframes html{
+    0% {
+        width: 10px;
+    }
+    100%{
+        width: 25;
+
+    }
+}

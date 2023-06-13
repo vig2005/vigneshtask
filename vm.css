@@ -1,0 +1,22 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    position: relative;
+    animation: svm;
+    animation-duration: 5s;
+    animation-iteration-count: 4;
+}
+@keyframes svm{
+    0%{background-color: blue;left: 0px;top: 0px;}
+    10%{background-color: chartreuse;left: 60px;top: 0px;}
+    20%{background-color: darkorange;left: 120px;top:0px;}
+    30%{background-color: darkviolet;left: 180px;top:0px;}
+    40%{background-color: olivedrab;left:240px;top:0px;}
+    50%{background-color: fuchsia;left: 240px;top:240px;}
+    60%{background-color: cornflowerblue;left:240px;top:240px;}
+    70%{background-color: deeppink;left: 180px;top: 240px;}
+    80%{background-color: yellow;left: 120px;top:240px;}
+    90%{background-color: green;left:0px;top: 240px;}
+    100%{background-color: crimson;left: 0px;top: 0px;}
+}
